@@ -1,7 +1,7 @@
 'use strict';
 
-exports.recaptcha_priv_key = 'YOUR_GOOGLE_RECAPTCHA_PRIVATE_KEY';
-exports.password_private_suffix = 'LONG_RANDOM_STRING1';
+exports.recaptcha_priv_key = '6Lc1sasZAAAAAKy077wvlcz_mmnw-nFm-l5e7IXo';
+exports.password_private_suffix = 'ZmENLHuupahKyKbpw9H6yq5sbhsLt7nqtEMxfSkECBVd69jQpUd2TJ3DVkcXLdhZddXxFHu6JydURZ';
 exports.SSL_KEY = '../ssl_certificates/privkey.pem'; //change to your ssl certificates private key
 exports.SSL_CERT = '../ssl_certificates/fullchain.pem'; //change to your ssl certificates fullchain
 
